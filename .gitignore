@@ -1,0 +1,10 @@
+.classpath
+*.jar
+*.class
+.project
+.pydevproject
+.settings
+bin
+.idea
+.vscode
+*.iml
